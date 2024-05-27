@@ -1,0 +1,22 @@
+{
+  "tasks": [
+    {
+      "id": "1",
+      "task": "Learn Vite",
+      "desc": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Tenetur quo a rerum odio tempora non eligendi libero ex aliquid reprehenderit!",
+      "completed": false
+    },
+    {
+      "id": "2",
+      "task": "Build a ToDo app",
+      "desc": "",
+      "completed": false
+    },
+    {
+      "id": "f268",
+      "task": "Task 3",
+      "desc": "Testing task 3",
+      "completed": false
+    }
+  ]
+}
