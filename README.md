@@ -18,7 +18,7 @@ This is a simple todo application built using React and Vite.
 4. Start development server:
    npm run dev
 5. Start json server:
-   npm run dev
+   npm run server
 6. Open browser and navigate to [http://localhost:3000] to view the applciation.
 
 ## Technologies used
